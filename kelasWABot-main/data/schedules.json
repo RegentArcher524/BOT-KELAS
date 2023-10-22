@@ -1,0 +1,147 @@
+[
+	{
+		"day": "Senin",
+		"meet": [
+			{
+				"time": ["07.00", "08.45"],
+				"sks": "2",
+				"name": "Ekonomi",
+				"lecturer": "Bu Sri wanti"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "2",
+				"name": "Sejarah",
+				"lecturer": "Bu nur salimah"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "2",
+				"name": "PPKN",
+				"lecturer": "Bu kristin"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "3",
+				"name": "BIG lanjut",
+				"lecturer": "Pak sumawan"
+			}
+		]
+	},
+	{
+		"day": "Selasa",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Matematika lanjut",
+				"lecturer": "Pak bambang"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Fisika",
+				"lecturer": "Bu ning"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Biologi",
+				"lecturer": "Bu rushilowati"
+			}
+		]
+	},
+	{
+		"day": "Rabu",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Matematika umum",
+				"lecturer": "Bu novita"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Fisika",
+				"lecturer": "Bu ning"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "2",
+				"name": "Big umum",
+				"lecturer": "Pak sumawan"
+			}
+		]
+	},
+	{
+		"day": "Kamis",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "B. indonesia",
+				"lecturer": "Bu karyati"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "PJOK",
+				"lecturer": "Pak praban"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "1",
+				"name": "B. jawa",
+				"lecturer": "Pak sunu"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Matematika umum",
+				"lecturer": "Bu novita"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "Informatika",
+				"lecturer": "Pak rahman"
+			}
+		]
+	},
+	{
+		"day": "Jum'at",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "2",
+				"name": "B. indonesia",
+				"lecturer": "Bu karyati"
+			},
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "1",
+				"name": "Informatika",
+				"lecturer": "Pak rahman"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "2",
+				"name": "Biologi",
+				"lecturer": "Bu rushilowati"
+			},
+			{
+				"time": ["07.00","08.00"],
+				"sks": "2",
+				"name": "Matematika lanjut",
+				"lecturer": "Pak bambang"
+			},
+			{
+				"time": ["07.00","08.00"],
+				"sks": "2",
+				"name": "PAI",
+				"lecturer": "Bu nurul"
+			}
+		]
+	}
+]
